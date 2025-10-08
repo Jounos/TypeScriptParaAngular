@@ -1,0 +1,23 @@
+{
+  "name": "typescriptparaangular",
+  "version": "1.0.0",
+  "description": "Projeto para estudar o typescript voltado para Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jounos/TypeScriptParaAngular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jounos/TypeScriptParaAngular/issues"
+  },
+  "homepage": "https://github.com/Jounos/TypeScriptParaAngular#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
