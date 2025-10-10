@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx tsc && node dist/index.js",
+    "start:dev": "ts-node-dev --respawn --transpile-only src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/Jounos/TypeScriptParaAngular#readme",
   "devDependencies": {
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"
   }
 }
